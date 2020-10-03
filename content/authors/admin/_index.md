@@ -32,8 +32,8 @@ highlight_name: false
 title: Anokh Palakurthi
 email: ""
 ---
-Hi!\
+Hi, my name is Anokh Palakurthi. I'm a marketing associate for a Boston retail consulting firm by day, but I moonlight as a freelance writer and author. \
 \
-From the start of my career, I have committed myself to discovering and sharing unique stories. My experience is within B2B digital marketing, competitive gaming, large-scale event planning, and independent niche journalism.\
+In addition to writing my first book, "The Book of Melee," in 2019, I have freelance written for Deadspin, Tempo Storm, Red Bull, and Panda Global, typically within the world of - you guessed it - professional Super Smash Bros. Melee. Currently, I write and produce videos for the Melee Stats YouTube channel: a longtime content collective of the Melee scene's most dedicated researchers and writers. \
 \
-In May 2019, I published [The Book of Melee](https://www.amazon.com/dp/1080789960), a historical recap of the professional Super Smash Bros. Melee community.
+While my most of my experience writing has involved gaining expertise over one niche, I have several other interests that I write about. Every month, I review books on my Goodreads account, typically on international politics, and I currently write for the Democratic Left, the quarterly magazine for the Democratic Socialists of America. Moving forward, I hope to pursue more work within the left media and entertainment space, as well as continue staying involved within Melee Stats.
