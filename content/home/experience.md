@@ -18,27 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Senior Marketing Associate"
+  company = "Nextenture"
+  company_url = "www.nextenture.com"
+  location = "Boston, MA"
+  date_start = "2016-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Drove hundreds of thousands of dollars of annual sales and marketing revenue through directing company presence at retail trade shows, writing engaging copy for brochures, postcards, flyers and banners, and managing meetings with sales prospects and clients.
+
+  * Grew company social media following from zero to over 1,000 followers and directed digital advertising efforts on GoogleAds and LinkedIn, also developing the company's official website, and authoring bi-weekly email campaigns to customers and prospects
+  
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Life Editor"
+  company = "The Daily Campus"
+  company_url = "dailycampus.com"
+  location = "Storrs, CT"
+  date_start = "2014-10-01"
+  date_end = "2016-05-08"
+  description = """
+  
+   * Selected by the editorial board to write a guest column for Deadspin.com, and won the ‘Workaholic Award’ of the section two consecutive times as well as the ‘Story of the Year’ accolade for 2015 and 2016. 
+
+   * Prepared weekly editorial budgets for the Life section of Connecticut’s largest collegiate daily, and was promoted from the positions of copy editor and weekly reporter to the position of Lead Editor within a few months.
+  
+  """
 
 +++
