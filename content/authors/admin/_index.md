@@ -6,7 +6,7 @@ superuser: true
 authors:
   - admin
 role: ""
-avatar_filename: anokh-nextenture.jpg
+avatar_filename: anokhgood.jpg
 bio: ""
 interests:
   - Super Smash Bros. Melee
