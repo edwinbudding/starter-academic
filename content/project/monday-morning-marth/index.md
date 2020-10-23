@@ -10,4 +10,3 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-[From 2018 to 2020](https://meleestats.co/category/mmm/)
