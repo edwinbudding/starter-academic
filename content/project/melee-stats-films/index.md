@@ -10,5 +10,3 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-[Hanky Panky - The Greatest Melee Player Nobody Knows](https://www.youtube.com/watch?v=lxFRjsVM-9g) - Writing & Production & Narration\
-[Prince Abu vs. Plup](https://www.youtube.com/watch?v=Fg_7DcXwBlk) - The Weirdest Set Ever Played - Editing & Narration
