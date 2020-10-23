@@ -11,4 +11,3 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The Book of Melee is a deep dive into the universe of competitive Melee, gaming's greatest and most unlikely underdog story.
